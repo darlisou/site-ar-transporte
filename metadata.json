@@ -1,0 +1,7 @@
+{
+  "name": "AR TRANSPORTE | Logística Fluvial Belém-Manaus",
+  "description": "Site oficial da AR TRANSPORTE. Transporte de cargas e passageiros na Amazônia via Catamarã Rondônia e Amazon Star.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
