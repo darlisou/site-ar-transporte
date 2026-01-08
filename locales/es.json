@@ -1,0 +1,128 @@
+
+{
+  "header": {
+    "operation_status": "OPERACIÓN NORMAL: RUTA ACTIVA",
+    "starlink": "ONE MOB A BORDO",
+    "logo_subtitle": "Excelencia Fluvial",
+    "nav": {
+      "fleet": "Nuestra Flota",
+      "routes": "Rutas",
+      "comfort": "Confort",
+      "whatsapp": "WhatsApp",
+      "sales_center": "Centro de Ventas"
+    }
+  },
+  "hero": {
+    "badge": "Excelencia Naval Amazónica • Desde 1983",
+    "title_part1": "El arte de la",
+    "title_part2": "Eficiencia.",
+    "subtitle": "Infraestructura fluvial de alto rendimiento uniendo Belém y Manaus. Estándar ejecutivo en transporte de carga y pasajeros."
+  },
+  "world_section": {
+    "tagline": "TECNOLOGÍA NAVAL",
+    "title_part1": "Amazonía y el",
+    "title_part2": "mundo",
+    "title_part3": "a bordo",
+    "description": "Navegue por rutas que revelan el alma de la Amazonía. De puertos históricos a escenarios vírgenes, lo conectamos con los destinos más fascinantes de la región.",
+    "divider": "Conectando los extremos de la Amazonía, todos los días, en todos os sentidos."
+  },
+  "booking": {
+    "passengers": "Pasajeros",
+    "cargo": "Carga y Vehículos",
+    "origin_label": "Puerto de Embarque",
+    "origin_placeholder": "Seleccione el embarque...",
+    "destination_label": "Puerto de Destino",
+    "destination_placeholder": "Seleccione el destino...",
+    "results_title": "Itinerarios y Fechas Disponibles",
+    "price_from": "Pasajes desde",
+    "departure": "Salida",
+    "reserve": "RESERVAR",
+    "unavailable": "Tramo no disponible para selección automática. Contáctenos para análisis manual.",
+    "helper_text": "Seleccione el tramo completo para consultar horarios y valores",
+    "security_tag": "Emisión Digital • Tablas Vigentes de 2026",
+    "wa_msg_prefix": "Hola AR TRANSPORTE. Solicito reserva de",
+    "wa_msg_type_pax": "Pasaje",
+    "wa_msg_type_cargo": "Carga/Vehículo",
+    "wa_msg_route": "Tramo",
+    "wa_msg_vessel": "Barco",
+    "wa_msg_date": "Fecha",
+    "wa_msg_price": "Valor Estimado (Red)"
+  },
+  "fleet": {
+    "badge": "Tecnología Naval",
+    "title_part1": "Soberanía",
+    "title_part2": "en el Canal.",
+    "description": "Flota de autoridad compuesta por embarcações industriales, diseñadas para estabilidad total y máxima eficiencia logística en el Amazonas.",
+    "specs_label": "Especificações do Equipamento",
+    "reliability": "Confiabilidad Industrial",
+    "heavy_duty": "Carga Pesada",
+    "high_speed": "Alta Velocidade",
+    "rondonia": {
+      "tag": "Estabilidade Superior y Carga Pesada",
+      "desc": "El gigante de la cuenca amazónica. Casco doble para estabilidad absoluta y máxima capacidad para logística industrial.",
+      "badge": "Alta Capacidad",
+      "feat1": "Doble Casco de Acero",
+      "feat2": "Logística de Camiones",
+      "feat3": "Deck VIP Climatizado"
+    },
+    "amazon": {
+      "tag": "Expreso Premium y Confort",
+      "desc": "Velocidad y sofisticación. El deck panorámico más exclusivo de la región, ideal para viajes ejecutivos.",
+      "badge": "Velocidad Expreso",
+      "feat1": "Navegación Veloz",
+      "feat2": "Suites Master",
+      "feat3": "Deck Panorámico 360°"
+    }
+  },
+  "experience": {
+    "badge": "Alojamiento VIP",
+    "title": "Estándar de Abordo Corporativo.",
+    "high_standard": "Alto Estándar",
+    "suite_master": {
+      "name": "Suite Master",
+      "desc": "Cama Box, Baño Privado de Alto Nivel, Climatización y Frigobar."
+    },
+    "camarote": {
+      "name": "Camarote Ejecutivo",
+      "desc": "4 Alojamientos Premium, Aire acondicionado y Privacidad para su equipo o família."
+    },
+    "salao": {
+      "name": "Salón Business",
+      "desc": "Butacas reclinables en ambiente climatizado y monitoreado."
+    },
+    "redario": {
+      "name": "Área de Hamacas Tradicional",
+      "desc": "Experiencia auténtica en la cubierta superior con ventilación natural."
+    }
+  },
+  "routes": {
+    "badge": "Conectividad Regional",
+    "title": "El Flujo de la Amazonía.",
+    "extension": "Extensión de la Ruta",
+    "transit_time": "Tiempo de Trânsito",
+    "frequency": "Frequência Fixa",
+    "origin": "Origen",
+    "hub": "Conexión",
+    "destination": "Destino",
+    "hours": "Horas",
+    "weekly": "Semanal"
+  },
+  "stats": {
+    "cargo_insured": "Carga Asegurada",
+    "logistics_network": "Red Logística",
+    "naval_leadership": "Liderazgo Naval",
+    "satellite_connection": "Conexión Vía Satélite"
+  },
+  "footer": {
+    "description": "Referencia absoluta en soberanía logística en la Amazonía. Ingeniería naval dedicada a la eficiencia y al progreso regional.",
+    "regional_centers": "Centrales Regionales",
+    "cargo_corporate": "Carga y Corporativo",
+    "institutional": "Institucional",
+    "partner_portal": "Portal del Socio",
+    "privacy": "Privacidad",
+    "compliance": "Cumplimiento",
+    "base": "Base",
+    "depot": "Depósito",
+    "dispatch": "Despacho de Cargas Industriais"
+  }
+}

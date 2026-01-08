@@ -1,0 +1,128 @@
+
+{
+  "header": {
+    "operation_status": "NORMAL OPERATION: ACTIVE ROUTE",
+    "starlink": "ONE MOB ON BOARD",
+    "logo_subtitle": "River Excellence",
+    "nav": {
+      "fleet": "Our Fleet",
+      "routes": "Routes",
+      "comfort": "Comfort",
+      "whatsapp": "WhatsApp",
+      "sales_center": "Sales Center"
+    }
+  },
+  "hero": {
+    "badge": "Amazonian Naval Excellence • Since 1983",
+    "title_part1": "The art of",
+    "title_part2": "Efficiency.",
+    "subtitle": "High-performance river infrastructure connecting Belém and Manaus. Executive standard in cargo and passenger transport."
+  },
+  "world_section": {
+    "tagline": "NAVAL TECHNOLOGY",
+    "title_part1": "Amazon and the",
+    "title_part2": "world",
+    "title_part3": "on board",
+    "description": "Sail through routes that reveal the soul of the Amazon. From historic ports to untouched landscapes, we connect you to the region's most fascinating destinations.",
+    "divider": "Connecting the extremes of the Amazon, every day, in every direction."
+  },
+  "booking": {
+    "passengers": "Passengers",
+    "cargo": "Cargo & Vehicles",
+    "origin_label": "Boarding Port",
+    "origin_placeholder": "Select boarding...",
+    "destination_label": "Destination Port",
+    "destination_placeholder": "Select destination...",
+    "results_title": "Available Itineraries and Dates",
+    "price_from": "Tickets starting at",
+    "departure": "Departure",
+    "reserve": "BOOK NOW",
+    "unavailable": "Route unavailable for automatic selection. Please contact us for manual analysis.",
+    "helper_text": "Select the complete route to check times and values",
+    "security_tag": "Digital Issuance • 2026 Current Tables",
+    "wa_msg_prefix": "Hello AR TRANSPORTE. I'm requesting a",
+    "wa_msg_type_pax": "Passenger Ticket",
+    "wa_msg_type_cargo": "Cargo/Vehicle booking",
+    "wa_msg_route": "Route",
+    "wa_msg_vessel": "Vessel",
+    "wa_msg_date": "Date",
+    "wa_msg_price": "Estimated Price (Hammock)"
+  },
+  "fleet": {
+    "badge": "Naval Technology",
+    "title_part1": "Sovereignty",
+    "title_part2": "in the Channel.",
+    "description": "Authority fleet composed of industrial vessels, designed for total stability and maximum logistical efficiency in the Amazon.",
+    "specs_label": "Equipment Specifications",
+    "reliability": "Industrial Reliability",
+    "heavy_duty": "Heavy Duty",
+    "high_speed": "High Speed",
+    "rondonia": {
+      "tag": "Superior Stability & Heavy Cargo",
+      "desc": "The giant of the Amazon basin. Double hull for absolute stability and maximum capacity for industrial logistics.",
+      "badge": "High Capacity",
+      "feat1": "Steel Double Hull",
+      "feat2": "Truck Logistics",
+      "feat3": "Climate Controlled VIP Deck"
+    },
+    "amazon": {
+      "tag": "Premium Express & Comfort",
+      "desc": "Speed and sophistication. The most exclusive panoramic deck in the region, ideal for executive travel.",
+      "badge": "Express Speed",
+      "feat1": "Fast Navigation",
+      "feat2": "Master Suites",
+      "feat3": "360° Panoramic Deck"
+    }
+  },
+  "experience": {
+    "badge": "VIP Accommodations",
+    "title": "Corporate Boarding Standard.",
+    "high_standard": "High Standard",
+    "suite_master": {
+      "name": "Master Suite",
+      "desc": "Box Bed, High-Standard Private Bathroom, Climate Control and Minibar."
+    },
+    "camarote": {
+      "name": "Executive Cabin",
+      "desc": "4 Premium Accommodations, Air conditioning and Privacy for your team or family."
+    },
+    "salao": {
+      "name": "Business Lounge",
+      "desc": "Reclining seats in a climate-controlled and monitored environment."
+    },
+    "redario": {
+      "name": "Traditional Hammock Area",
+      "desc": "Authentic experience on the upper deck with natural ventilation."
+    }
+  },
+  "routes": {
+    "badge": "Regional Connectivity",
+    "title": "The Amazon Flow.",
+    "extension": "Route Extension",
+    "transit_time": "Transit Time",
+    "frequency": "Fixed Frequency",
+    "origin": "Origin",
+    "hub": "Hub",
+    "destination": "Destination",
+    "hours": "Hours",
+    "weekly": "Weekly"
+  },
+  "stats": {
+    "cargo_insured": "Insured Cargo",
+    "logistics_network": "Logistics Network",
+    "naval_leadership": "Naval Leadership",
+    "satellite_connection": "Satellite Connection"
+  },
+  "footer": {
+    "description": "Absolute reference in logistics sovereignty in the Amazon. Naval engineering dedicated to efficiency and regional progress.",
+    "regional_centers": "Regional Centers",
+    "cargo_corporate": "Cargo & Corporate",
+    "institutional": "Institutional",
+    "partner_portal": "Partner Portal",
+    "privacy": "Privacy",
+    "compliance": "Compliance",
+    "base": "Base",
+    "depot": "Depot",
+    "dispatch": "Industrial Cargo Dispatch"
+  }
+}

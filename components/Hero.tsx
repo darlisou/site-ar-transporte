@@ -1,6 +1,10 @@
+
 import React from 'react';
+import { useLanguage } from '../context/LanguageContext';
 
 const Hero: React.FC = () => {
+  const { t } = useLanguage();
+
   return (
     <section className="relative h-[92vh] md:h-[95vh] flex flex-col items-center justify-center overflow-hidden bg-ar-navy">
       {/* High-End Background Overlay */}
@@ -16,15 +20,14 @@ const Hero: React.FC = () => {
       {/* Corporate Branding Content */}
       <div className="relative z-10 text-center px-6 max-w-6xl">
         <div className="inline-block px-5 py-2 border border-white/20 rounded-full mb-10 backdrop-blur-md">
-          <span className="text-white text-[10px] font-bold tracking-[0.5em] uppercase">Excelência Naval Amazônica • Desde 1983</span>
+          <span className="text-white text-[10px] font-bold tracking-[0.5em] uppercase">{t('hero.badge')}</span>
         </div>
         <h1 className="text-5xl md:text-[8rem] font-display font-light text-white mb-10 leading-none tracking-tightest">
-          The art of <br/>
-          <span className="font-extrabold text-white">Efficiency.</span>
+          {t('hero.title_part1')} <br/>
+          <span className="font-extrabold text-white">{t('hero.title_part2')}</span>
         </h1>
         <p className="text-white/80 text-xl md:text-2xl font-light max-w-3xl mx-auto leading-relaxed opacity-90">
-          Infraestrutura fluvial de alta performance unindo Belém e Manaus. 
-          Padrão executivo em transporte de cargas e passageiros.
+          {t('hero.subtitle')}
         </p>
       </div>
     </section>

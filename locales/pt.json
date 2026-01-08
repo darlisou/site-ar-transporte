@@ -1,0 +1,128 @@
+
+{
+  "header": {
+    "operation_status": "OPERAÇÃO NORMAL: ROTA ATIVA",
+    "starlink": "ONE MOB A BORDO",
+    "logo_subtitle": "Excelência Fluvial",
+    "nav": {
+      "fleet": "Nossa Frota",
+      "routes": "Rotas",
+      "comfort": "Conforto",
+      "whatsapp": "WhatsApp",
+      "sales_center": "Central de Vendas"
+    }
+  },
+  "hero": {
+    "badge": "Excelência Naval Amazônica • Desde 1983",
+    "title_part1": "A arte da",
+    "title_part2": "Eficiência.",
+    "subtitle": "Infraestrutura fluvial de alta performance unindo Belém e Manaus. Padrão executivo em transporte de cargas e passageiros."
+  },
+  "world_section": {
+    "tagline": "TECNOLOGIA NAVAL",
+    "title_part1": "Amazônia e o",
+    "title_part2": "mundo",
+    "title_part3": "a bordo",
+    "description": "Navegue por rotas que revelam a alma da Amazônia. De portos históricos a cenários intocados, conectamos você aos destinos mais fascinantes da região.",
+    "divider": "Conectando os extremos da Amazônia, todos os dias, em todos os sentidos."
+  },
+  "booking": {
+    "passengers": "Passageiros",
+    "cargo": "Cargas & Veículos",
+    "origin_label": "Porto de Embarque",
+    "origin_placeholder": "Selecione o embarque...",
+    "destination_label": "Porto de Desembarque",
+    "destination_placeholder": "Selecione o destino...",
+    "results_title": "Itinerários e Datas Disponíveis",
+    "price_from": "Passagens a partir de",
+    "departure": "Partida",
+    "reserve": "RESERVAR",
+    "unavailable": "Trecho indisponível para seleção automática. Entre em contato para análise manual.",
+    "helper_text": "Selecione o trecho completo para consultar horários e valores",
+    "security_tag": "Emissão Digital • Tabelas Vigentes de 2026",
+    "wa_msg_prefix": "Olá AR TRANSPORTE. Solicito reserva de",
+    "wa_msg_type_pax": "Passagem",
+    "wa_msg_type_cargo": "Carga/Veículo",
+    "wa_msg_route": "Trecho",
+    "wa_msg_vessel": "Navio",
+    "wa_msg_date": "Data",
+    "wa_msg_price": "Valor Estimado (Rede)"
+  },
+  "fleet": {
+    "badge": "Tecnologia Naval",
+    "title_part1": "Soberania",
+    "title_part2": "na Calha.",
+    "description": "Frota de autoridade composta por embarcações industriais, projetadas para estabilidade total e máxima eficiência logística no Amazonas.",
+    "specs_label": "Especificações do Equipamento",
+    "reliability": "Confiabilidade Industrial",
+    "heavy_duty": "Carga Pesada",
+    "high_speed": "Alta Velocidade",
+    "rondonia": {
+      "tag": "Estabilidade Superior & Carga Pesada",
+      "desc": "O gigante da bacia amazônica. Casco duplo para estabilidade absoluta e máxima capacidade para logística industrial.",
+      "badge": "Alta Capacidade",
+      "feat1": "Casco Duplo de Aço",
+      "feat2": "Logística de Carretas",
+      "feat3": "Deck VIP Climatizado"
+    },
+    "amazon": {
+      "tag": "Expresso Premium & Conforto",
+      "desc": "Velocidade e sofisticação. O deck panorâmico mais exclusivo da região, ideal para viagens executivas.",
+      "badge": "Velocidade Expresso",
+      "feat1": "Navegação Veloz",
+      "feat2": "Suítes Master",
+      "feat3": "Deck Panorâmico 360°"
+    }
+  },
+  "experience": {
+    "badge": "Acomodações VIP",
+    "title": "Padrão de Bordo Corporativo.",
+    "high_standard": "Alto Padrão",
+    "suite_master": {
+      "name": "Suíte Master",
+      "desc": "Cama Box, Banheiro Privativo de Alto Padrão, Climatização e Frigobar."
+    },
+    "camarote": {
+      "name": "Camarote Executivo",
+      "desc": "4 Acomodações Premium, Ar-condicionado e Privacidade para sua equipe ou família."
+    },
+    "salao": {
+      "name": "Salão Business",
+      "desc": "Poltronas reclináveis em ambiente climatizado e monitorado."
+    },
+    "redario": {
+      "name": "Redário Tradicional",
+      "desc": "Experiência autêntica no convés superior com ventilação natural."
+    }
+  },
+  "routes": {
+    "badge": "Conectividade Regional",
+    "title": "O Fluxo da Amazônia.",
+    "extension": "Extensão da Rota",
+    "transit_time": "Tempo de Trânsito",
+    "frequency": "Frequência Fixa",
+    "origin": "Origem",
+    "hub": "Conexão",
+    "destination": "Destino",
+    "hours": "Horas",
+    "weekly": "Semanal"
+  },
+  "stats": {
+    "cargo_insured": "Carga Segurada",
+    "logistics_network": "Rede Logística",
+    "naval_leadership": "Liderança Naval",
+    "satellite_connection": "Conexão Via Satélite"
+  },
+  "footer": {
+    "description": "Referência absoluta em soberania logística na Amazônia. Engenharia naval dedicada à eficiência e ao progresso regional.",
+    "regional_centers": "Centrais Regionais",
+    "cargo_corporate": "Cargas & Corporativo",
+    "institutional": "Institucional",
+    "partner_portal": "Portal do Parceiro",
+    "privacy": "Privacidade",
+    "compliance": "Compliance",
+    "base": "Base",
+    "depot": "Depósito",
+    "dispatch": "Despacho de Cargas Industriais"
+  }
+}
